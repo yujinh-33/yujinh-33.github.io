@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[570],{830:function(n,t,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/contect",function(){return e(3237)}])},3237:function(n,t,e){"use strict";e.r(t);var u=e(5893);let c=()=>(0,u.jsx)("div",{children:"Contect Component!"});t.default=c}},function(n){n.O(0,[774,888,179],function(){return n(n.s=830)}),_N_E=n.O()}]);
